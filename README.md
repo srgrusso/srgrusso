@@ -1,6 +1,4 @@
-### Hi there 
-
-![srgrusso's github stats](https://github-readme-stats.vercel.app/api?username=srgrusso&show_icons=true&theme=radical)👋
+![srgrusso's github stats](https://github-readme-stats.vercel.app/api?username=srgrusso&show_icons=true&theme=chartreuse-dark)👋
 
 <!--
 **srgrusso/srgrusso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
